@@ -1,0 +1,8 @@
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Alternatively, could use the class selectors to achieve the above result (.container .text) */
